@@ -45,5 +45,7 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Cette application utilise le réseau local pour la communication avec le Flutter VM Service.</string>
 </dict>
 </plist>

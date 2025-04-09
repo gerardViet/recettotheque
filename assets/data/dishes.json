@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Salade Caprese",
+    "recipeText": "Couper les tomates et la mozzarella en tranches. Disposez-les en alternance sur une assiette. Ajoutez quelques feuilles de basilic, un filet d'huile d'olive, sel et poivre.",
+    "photoPath": "assets/dishs_pics/caprese.jpg",
+    "servings": 2,
+    "ingredients": [
+      { "id": 1, "name": "Tomate" },
+      { "id": 2, "name": "Mozzarella" },
+      { "id": 3, "name": "Basilic" }
+    ],
+    "weights": [100, 150, 5]
+  },
+  {
+    "id": 2,
+    "name": "Salade Caesar",
+    "recipeText": "Une heure avant le repas, mélangez tous les ingrédients de la sauce. Filmez et laissez reposer une heure au réfrigérateur. Coupez le pain en carrés et faites revenir les croûtons à dorer dans une poêle anti-adhésive avec un filet d'huile d'olive pendant 2 minutes. Laissez refroidir. Coupez le poulet en petits morceaux et faites-le cuire dans une poêle sans matière grasse. Faites-le dorer et laissez refroidir. Déchirez la laitue en petits morceaux. Dressez, dans l'ordre, la salade, le poulet, les croûtons et la sauce Caesar.",
+    "photoPath": "assets/dishs_pics/saladeCaesar.jpg",
+    "servings": 4,
+    "ingredients": [
+      { "id": 1, "name": "salade verte" },
+      { "id": 2, "name": "viande de poulet" },
+      { "id": 3, "name": "pain de mie américains Harry's" },
+      { "id": 4, "name": "yaourt nature" },
+      { "id": 5, "name": "crème fraîche" },
+      { "id": 6, "name": "parmesan" },
+      { "id": 7, "name": "jus de citron" },
+      { "id": 8, "name": "persil" },
+      { "id": 9, "name": "ail" },
+      { "id": 10, "name": "anchois conserve" }
+    ],
+    "weights": [300, 300, 120, 180, 60, 60, 15, 5, 10, 30]
+  }
+]
