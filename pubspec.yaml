@@ -56,9 +56,11 @@ flutter:
     - assets/data/dishes.json
     - assets/dishs_pics/caprese.jpg
     - assets/dishs_pics/saladeCaesar.jpg
+    - assets/dishs_pics/patesRoquetteAil.jpg
+    - assets/dishs_pics/risottoChorizoParmesan.jpg
+    - assets/dishs_pics/spaghettiCacio&Pepe.jpg
+    - assets/dishs_pics/taboule.jpg
    
-    
-    
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.

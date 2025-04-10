@@ -12,8 +12,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Recettotheque',
+      debugShowCheckedModeBanner:
+          false, // Désactivation de la bannière de debug
       theme: ThemeData(primarySwatch: Colors.blue),
-      // Définir la page d'accueil
       home: const HomeScreen(),
     );
   }

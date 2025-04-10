@@ -10,12 +10,12 @@
       { "id": 2, "name": "Mozzarella" },
       { "id": 3, "name": "Basilic" }
     ],
-    "weights": [100, 150, 5]
+    "weights": [200, 150, 5]
   },
   {
     "id": 2,
     "name": "Salade Caesar",
-    "recipeText": "Une heure avant le repas, mélangez tous les ingrédients de la sauce. Filmez et laissez reposer une heure au réfrigérateur. Coupez le pain en carrés et faites revenir les croûtons à dorer dans une poêle anti-adhésive avec un filet d'huile d'olive pendant 2 minutes. Laissez refroidir. Coupez le poulet en petits morceaux et faites-le cuire dans une poêle sans matière grasse. Faites-le dorer et laissez refroidir. Déchirez la laitue en petits morceaux. Dressez, dans l'ordre, la salade, le poulet, les croûtons et la sauce Caesar.",
+    "recipeText": "Une heure avant le repas, mélangez tous les ingrédients de la sauce. Filmez et laissez reposer une heure au réfrigérateur.\nCoupez le pain en carrés et faites revenir les croûtons à dorer dans une poêle anti-adhésive avec un filet d'huile d'olive pendant 2 minutes. Laissez refroidir.\nCoupez le poulet en petits morceaux et faites-le cuire dans une poêle sans matière grasse. Faites-le dorer et laissez refroidir.\nDéchirez la laitue en petits morceaux. Dressez, dans l'ordre, la salade, le poulet, les croûtons et la sauce Caesar.",
     "photoPath": "assets/dishs_pics/saladeCaesar.jpg",
     "servings": 4,
     "ingredients": [
@@ -31,5 +31,68 @@
       { "id": 10, "name": "anchois conserve" }
     ],
     "weights": [300, 300, 120, 180, 60, 60, 15, 5, 10, 30]
+  },
+  {
+    "id": 3,
+    "name": "Pâtes à la roquette et à l'ail",
+    "recipeText": "Mettre dans le bol du robot-marie, les 2/3 d'une gousse d'ail coupée sommairement, une bonne pincée de sel et une poignée (10 g environ) de salade de type roquette bien nettoyée et épongée au sopalin. Donner deux à trois tours de mixer. Ajouter la crème et terminer de mixer assez finement.\nFaire cuire les pâtes en eau bouillante non salée. Les égoutter soigneusement. Mettre la sauce crème et roquette dans le fond d'un saladier. Ajouter le parmesan râpé. Mélanger.\nAjouter les pâtes et les mêler soigneusement à la sauce. Servir.\nAjuster la salaison avec une fleur de sel de Guérande ou au moulin à sel.",
+    "photoPath": "assets/dishs_pics/patesRoquetteAil.jpg",
+    "servings": 1,
+    "ingredients": [
+      { "id": 1, "name": "pâtes (poids sec)" },
+      { "id": 2, "name": "ail" },
+      { "id": 3, "name": "roquette" },
+      { "id": 4, "name": "crème bridelice - 15% MG - Bridel" },
+      { "id": 5, "name": "parmesan" }
+    ],
+    "weights": [90, 6, 10, 60, 15]
+  },
+  {
+    "id": 4,
+    "name": "Risotto au chorizo et au parmesan",
+    "recipeText": "Emietter 2 cubes de bouillon Kub volaille dans 1 litre d'eau. Portez à ébullition le bouillon et gardez-le constamment frémissant.\nDans la sauteuse, chauffez l'huile d'olive et dorez-y légèrement l'oignon émincé. Y jeter le riz et le mélanger à l'huile et à l'oignon.\nAjoutez le vin et faire absorber.\nAjouter ensuite le bouillon de volaille à l'aide d'une petite louche. Mélanger sans cesse jusqu'à absorption du liquide. Recommencez ainsi jusqu'à obtenir un riz crémeux.\nJeter le bouillon non employé. Ajouter le parmesan râpé et le chorizo coupé en petits dés ou tranches. Mélangez le tout à feu doux une à deux minutes pour obtenir le crémeux du plat.\nAjuster la salaison et le piquant et décorer éventuellement avec un petit émincé de persil frais pour la présentation.",
+    "photoPath": "assets/dishs_pics/risottoChorizoParmesan.jpg",
+    "servings": 4,
+    "ingredients": [
+      { "id": 1, "name": "riz à grains ronds type Arborio" },
+      { "id": 2, "name": "bouillon de volaille type Maggi" },
+      { "id": 3, "name": "oignon émincé" },
+      { "id": 4, "name": "vin blanc sec de cuisine" },
+      { "id": 5, "name": "huile d'olive" },
+      { "id": 6, "name": "chorizo" },
+      { "id": 7, "name": "parmesan râpé" }
+    ],
+    "weights": [200, 2, 75, 80, 25, 100, 80]
+  },
+  {
+    "id": 5,
+    "name": "Spaghetti Cacio e Pepe",
+    "recipeText": "Pendant la cuisson des spaghettis, râper très finement le parmesan (ou le pécorino). Au bout de 5 minutes de cuisson des pâtes, verser une petite quantité d’eau de cuisson dans une poêle et ajouter le fromage râpé puis un ou deux tours de moulin à poivre. Mélanger pour obtenir une consistance crémeuse. Retirer du feu.\nEgoutter les pâtes en gardant bien l'eau de cuisson. Ajouter les spaghettis dans la sauce, hors du feu.\nMélanger en ajoutant éventuellement un peu d'eau de cuisson afin d'obtenir le mélange parfait. Servir chaud.",
+    "photoPath": "assets/dishs_pics/spaghettiCacio&Pepe.jpg",
+    "servings": 1,
+    "ingredients": [
+      { "id": 1, "name": "pâtes (poids sec)" },
+      { "id": 2, "name": "pécorino" },
+      { "id": 3, "name": "poivre noir" }
+    ],
+    "weights": [90, 25, 1]
+  },
+  {
+    "id": 6,
+    "name": "Taboulé",
+    "recipeText": "Mettez la semoule de couscous ou le boulgour dans un saladier, couvrez-le d'eau froide. Laissez ainsi une demi-heure en soulevant de temps en temps les graines à la fourchette pour aérer le couscous. Lorsque l'eau a été complètement absorbée par le couscous, arrosez-le de jus de citron, salez et poivrez, mélangez à la fourchette.\nLavez les tomates, épépinez-les. Épluchez le concombre. Coupez-les en petits dés. Épluchez les oignons et émincez-les finement. Ajoutez le tout au couscous, arrosez d'huile d'olive, mélangez.\nHachez finement les herbes au couteau et ajoutez-les à la salade, mélangez bien. \nRectifiez l'assaisonnement si c'est nécessaire et placez le tout au frais au moins 2 heures.",
+    "photoPath": "assets/dishs_pics/taboule.jpg",
+    "servings": 4,
+    "ingredients": [
+      { "id": 1, "name": "semoule de blé ou boulghour)" },
+      { "id": 2, "name": "tomate" },
+      { "id": 3, "name": "concombre" },
+      { "id": 4, "name": "oignon" },
+      { "id": 5, "name": "jus de citron" },
+      { "id": 6, "name": "huile d'olive" },
+      { "id": 7, "name": "persil" },
+      { "id": 8, "name": "menthe" }
+    ],
+    "weights": [240, 400, 300, 160, 50, 48, 15, 15]
   }
 ]
