@@ -7,7 +7,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // Par exemple, on peut utiliser un Stack pour l'image de fond et le contenu
+      // Utilisation d'un Stack pour l'image de fond et le contenu
       body: Stack(
         children: [
           // Image de fond
@@ -19,7 +19,7 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
           ),
-          // Overlay pour améliorer la lisibilité (facultatif)
+          // Overlay pour améliorer la lisibilité
           // ignore: deprecated_member_use
           Container(color: Colors.black.withOpacity(0.3)),
           // Contenu centré : texte explicatif et bouton GO
